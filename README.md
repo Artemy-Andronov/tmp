@@ -1,3 +1,3 @@
 Hello world!
 HEllo planet!
-OMP 2026
+OMP 2025
